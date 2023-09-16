@@ -12,6 +12,7 @@ This script contains a simple and straight forward config file that allows serve
 - User friendly - easy and straight forward to use.
 - Optimised (0ms) - minimal performance impact on the client.
 - SQL data storing.
+- Auto database setup
 - Ability to limit how many times a player can trust another player to use their whitelisted vehicle.
 - A user friendly, easy to navigate menu that shows all vehicles a player has access to.
 
