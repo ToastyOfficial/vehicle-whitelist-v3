@@ -8,6 +8,7 @@ All code has been redone from scratch and uses sql instead of badgerAPI. This sc
  
 ### Features:
 
+- Standalone
 - Easy to setup config file, which has a brief description of what all config options will do.
 - User friendly - easy and straight forward to use.
 - Optimised (0ms) - minimal performance impact on the client.
