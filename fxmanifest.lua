@@ -4,6 +4,7 @@ fx_version 'bodacious'
 game 'gta5'
 author '@iitztoasty'
 version '3.0'
+lua54 'yes'
 
 shared_script 'config.lua'
 
