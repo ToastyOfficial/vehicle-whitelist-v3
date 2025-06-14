@@ -5,7 +5,7 @@ All code has been redone from scratch and uses sql instead of badgerAPI. This sc
 
 ### Dependencies
 - [menuv](https://github.com/ThymonA/menuv/releases/tag/v1.4.1)
-[oxmysql](https://github.com/overextended/oxmysql)
+- [oxmysql](https://github.com/overextended/oxmysql)
  
 ### Features:
 
